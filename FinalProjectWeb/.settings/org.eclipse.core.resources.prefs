@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ControllerWeb/ManagerCartControl.java=UTF-8
+encoding//src/main/java/ControllerWeb/TotalMoneyCartControl.java=UTF-8
+encoding//src/main/webapp/common/admin/leftAdmin.jsp=UTF-8
+encoding//src/main/webapp/decorators/login.jsp=UTF-8
+encoding//src/main/webapp/views/admin/DoanhThuTheoThu.jsp=UTF-8
+encoding//src/main/webapp/views/admin/HoaDon.jsp=UTF-8
+encoding//src/main/webapp/views/admin/NhaPhanPhoi.jsp=UTF-8
+encoding//src/main/webapp/views/admin/QuanLyTaiKhoan.jsp=UTF-8
+encoding//src/main/webapp/views/admin/Top10SanPhamBanChay.jsp=UTF-8
+encoding//src/main/webapp/views/admin/Top5KhachHang.jsp=UTF-8
+encoding//src/main/webapp/views/admin/Top5NhanVien.jsp=UTF-8
+encoding//src/main/webapp/views/web/BlogDetail.jsp=UTF-8
+encoding//src/main/webapp/views/web/EditProfile.jsp=UTF-8
+encoding//src/main/webapp/views/web/VerifyForm.jsp=UTF-8
